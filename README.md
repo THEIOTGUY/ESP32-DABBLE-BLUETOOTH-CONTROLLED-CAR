@@ -3,3 +3,7 @@
 ##DESCRIPTION
 
 Here we are using DABBLE app to control a esp32 bluetooth controlled car
+
+## COMPONENTS REQUIRED
+
+
